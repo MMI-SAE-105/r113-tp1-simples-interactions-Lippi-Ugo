@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : LIPPI
+- prénom : Ugo
+- URL Netlify : https://kaleidoscopic-cranachan-7d6b20.netlify.app/
 
 # Travail
 
